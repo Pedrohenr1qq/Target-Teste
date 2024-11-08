@@ -20,7 +20,5 @@ for(let i = 0; i <= MAX_NUM; i++){
   fibbonaci.push(a+b);
 }
 
-console.log(fibbonaci)
-
 if(!found) console.log(`O número ${num} não pertece à sequência`);
 
